@@ -1,0 +1,6 @@
+.widgets__iframe {
+  width: 200px;
+  height: 100%;
+  border: none;
+  overflow: hidden;
+}
